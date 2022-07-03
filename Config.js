@@ -10,8 +10,8 @@ global.APIs = {
 global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01',  // Do not change
 }
-global.owner = ['+94711502119'] //👈  Enter Your number)
-global.premium = ['+94711502119'] // 👈  Enter Your number)
+global.owner = ['+2349033807504'] //👈  Enter Your number)
+global.premium = ['+2349033807504'] // 👈  Enter Your number)
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = (`- *Hi 🥰 I m*
