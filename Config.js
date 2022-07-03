@@ -15,31 +15,36 @@ global.premium = ['+2349033807504'] // 👈  Enter Your number)
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = (`- *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
-*Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`)  // 👈 Enter Your details and Social Media Links and Anything
-global.ownernomer = '+94711502119' //👈 Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲ ＦＩＥＬＤ ＢＯＴ ｖ8.2' //👈 Enter Your Bot name
-global.footer = 'Coded by Tharindu Liyanage' //👈 Enter Your Name
+*•••🔱♾️ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𝐎 ♨️👿*
+*I am A DEMON 😈 That specializes in the soul of Bots!!!!*
+*From Hell*
+*hehe.....*
+*soulll*
+*😈*
+
+global.ownernomer = '+2348174582751' //👈 Enter Your number
+global.ownername = '•••🔱♾️ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𝐎 ♨️👿' //👈 Enter Your name
+global.botname = '𝘼𝙎𝙏𝘼 𝘿𝙀𝙈𝙊𝙉 𝘽𝙊𝙏
+' //👈 Enter Your Bot name
+global.footer = 'Coded by •••🔱♾️ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𝐎 ♨️👿' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
-global.region = 'India' // 👈 Enter Your country
+global.region = 'Hell' // 👈 Enter Your country
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.myweb = 'https://www.facebook.com/garfieldbots/' // 👈 Enter your Social media link to follow now button
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.packname = '𝘼𝙎𝙏𝘼 𝘿𝙀𝙈𝙊𝙉 𝘽𝙊𝙏'  // 👈 You Can change this your choice 
+global.author = '•••🔱♾️ 𝐋 𝐔 𝐂 𝐈 𝐅 𝐄 𝐑 𝐎 ♨️👿
+' // 👈 You Can change this your choice 
 global.sessionName = 'session'  // 👈 You Can change this your choice 
 global.prefa = '','!','.'  // 👈 You Can change this your choice 
 global.sp = 'ZENOI'  // 👈 You Can change this your choice 
 
 global.mess = {
     success: 'Done 🐼', //👈 Use these in your language of choice
-    admin: 'This Feature Is Only For Admin!', // 👈 Use these in your language of choice
-    botAdmin: 'Bot Must Be Admin First!', // 👈 Use these in your language of choice
+    admin: 'Ｔｈｉｓ ｆｅａｔｕｒｅ ｉｓ ｏｎｌｙ ａｖａｉｌａｂｌｅ ｆｏｒ ａｄｉｍｉｎｓ ｂａｋａ!!
+👿
+
+', // 👈 Use these in your language of choice
+    botAdmin: 'Bot Must Be Admin First baka!', // 👈 Use these in your language of choice
     owner: 'This Feature Is Only For Owner!', // 👈 Use these in your language of choice
     group: 'Feature Used Only For Groups!', //👈 Use these in your language of choice
     private: 'Features Used Only For Private Chat!', // 👈 Use these in your language of choice
